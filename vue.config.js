@@ -1,8 +1,9 @@
-const {defineConfig} = require('@vue/cli-service')
+const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
     transpileDependencies: true
 })
 module.exports = {
+    publicPath: '/vue-hw-8-final-work',
     css: {
         loaderOptions: {
             scss: {
