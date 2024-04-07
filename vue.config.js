@@ -3,7 +3,7 @@ module.exports = defineConfig({
     transpileDependencies: true
 })
 module.exports = {
-    publicPath: '/vue-hw-8-final-work',
+    publicPath: '/vue-hw-8-final-interno',
     css: {
         loaderOptions: {
             scss: {
