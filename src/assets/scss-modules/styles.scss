@@ -1,0 +1,43 @@
+@import "./variables";
+@import "./btn";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+div,
+img,
+a,
+hr,
+table,
+tr,
+td,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+select,
+figure,
+textarea,
+button,
+ul {
+  color: inherit;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 0;
+  margin: 0;
+  padding: 0;
+  font-family: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  outline: none;
+  vertical-align: top;
+  transition: none;
+  list-style-type: none;
+}
